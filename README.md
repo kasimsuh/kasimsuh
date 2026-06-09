@@ -1,4 +1,4 @@
-# ✌️ About Me:
+#  About Me:
 
 Hi, I'm Suhiyini Kasim! I'm a Computer Science student at the University of Toronto Scarborough, specializing in Software Engineering 🇨🇦
 
