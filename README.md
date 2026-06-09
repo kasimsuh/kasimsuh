@@ -61,48 +61,6 @@ I'm currently looking for Summer and Fall 2026 internship opportunities in softw
 
 ---
 
-# 🚀 Featured Projects:
-
-## JobFolio
-
-A full-stack job application tracker that helps users manage applications, resume versions, and job search analytics.
-
-**Tech:** React, Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Jest, Docker
-
-- Built application tracking, resume versioning, authentication, and analytics workflows
-- Implemented JWT authentication and password hashing with bcrypt
-- Created dashboard metrics for interview rate, offer rate, pending applications, and total submissions
-- Dockerized the backend to improve local development and deployment readiness
-
-## EcoHome Studio
-
-An AI-powered sustainable home design platform that converts user prompts into structured home designs, 3D previews, 2D floor plans, sustainability scores, and upgrade recommendations.
-
-**Tech:** Next.js, TypeScript, Tailwind CSS, LangChain, Supabase pgvector, React Three Fiber, Three.js
-
-- Built an AI workflow that converts natural language prompts into structured design JSON
-- Implemented a LangChain-based RAG pipeline over sustainability and green-building datasets
-- Used Supabase pgvector for semantic retrieval and climate-specific recommendation grounding
-- Rendered interactive 3D home concepts from AI-generated schemas
-
-## SeniCare
-
-A hackathon-winning AI-assisted remote monitoring platform for clinics supporting seniors living alone.
-
-**Tech:** React, JavaScript, FastAPI, MongoDB, Tailwind CSS, MediaPipe, OpenCV, Gemini API
-
-- Won Best Use of Gemini API at CTRL+HACK+DEL 2.0
-- Integrated Gemini Live API for conversational health check-ins
-- Built backend endpoints for submission validation and clinician triage summaries
-- Used video-processing techniques to extract facial landmarks and estimate basic health indicators
-
-## SMART AIR
-
-A kid-friendly Android app that helps children understand asthma, practice inhaler technique, log symptoms and medicine use, and share approved health information with caregivers.
-
-**Tech:** Java, Android, Firebase
-
----
 
 # 📌 Currently Working On:
 
