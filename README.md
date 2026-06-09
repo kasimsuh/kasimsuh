@@ -113,13 +113,6 @@ A kid-friendly Android app that helps children understand asthma, practice inhal
 
 ---
 
-# 📊 GitHub Stats:
-
-![Suhiyini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasimsuh&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasimsuh&layout=compact&theme=tokyonight)
-
----
-
 # 🤝 Let's Connect:
 
 I'm always open to internship opportunities, project collaborations, and conversations about software engineering, AI-powered products, and full-stack development.
